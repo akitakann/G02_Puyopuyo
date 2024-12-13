@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\akita\\GitHub\\G02_Puyopuyo\\",
+  "WorkspaceRootPath": "C:\\Github\\C\u002B\u002B\\G02_Puyopuyo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56812029-3593-406A-9F18-7DBE6E58353E}|G02_Puyopuyo.vcxproj|C:\\Users\\akita\\GitHub\\G02_Puyopuyo\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{56812029-3593-406A-9F18-7DBE6E58353E}|G02_Puyopuyo.vcxproj|C:\\Github\\C\u002B\u002B\\G02_Puyopuyo\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56812029-3593-406A-9F18-7DBE6E58353E}|G02_Puyopuyo.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\akita\\GitHub\\G02_Puyopuyo\\Main.cpp",
+              "DocumentMoniker": "C:\\Github\\C\u002B\u002B\\G02_Puyopuyo\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\akita\\GitHub\\G02_Puyopuyo\\Main.cpp",
+              "ToolTip": "C:\\Github\\C\u002B\u002B\\G02_Puyopuyo\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAAAMAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAlwFIBAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-30T10:41:20.507Z",
               "EditorCaption": ""

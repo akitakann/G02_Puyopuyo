@@ -336,7 +336,7 @@ int PuyoDelete()
 			}
 		}
 	}
-
+	return 0;
 }
 
 void PuyoNakama(int Y,int X, int ExploredPuyo[MAP_Y][MAP_X], int PuyoNakamaNum[MAP_Y][MAP_X])
